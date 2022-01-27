@@ -1,0 +1,33 @@
+{
+    "details": [{
+            "id": 1,
+            "name": "neha",
+            "email": "neha@gmail.com",
+            "age": 20,
+            "city": "Pune"
+        },
+        {
+            "id": 2,
+            "name": "neel",
+            "email": "neel@gmail.com",
+            "age": 22,
+            "city": "mumbai"
+        },
+        {
+            "id": 3,
+            "name": "Amruta",
+            "email": "amruta@gmail.com",
+            "age": 22,
+            "city": "Navi Mumbai"
+        },
+        {
+            "id": 4,
+            "name": "pooja",
+            "email": "pooja@gmail.com",
+            "age": 22,
+            "city": "Indore"
+        }
+        
+        
+    ]
+}

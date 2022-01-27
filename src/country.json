@@ -1,0 +1,73 @@
+{
+    "country": [{
+            "id": 1,
+            "name": "India"
+        },
+        {
+            "id": 2,
+            "name": "Japan"
+        }
+    ],
+    "state": [{
+            "id": 1,
+            "name": "Maharashtra",
+            "country_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Kerela",
+            "country_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Kantō",
+            "country_id": 2
+        },
+        {
+            "id": 4,
+            "name": "Kansai",
+            "country_id": 2
+        }
+    ],
+    "city": [{
+            "id": 1,
+            "name": "Pune",
+            "state_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Mumbai",
+            "state_id": 1
+        },
+        {
+            "id": 3,
+            "name": "nashik",
+            "state_id": 2
+        },
+        {
+            "id": 4,
+            "name": "Kollam",
+            "state_id": 2
+        },
+        {
+            "id": 5,
+            "name": "Saitama",
+            "state_id": 3
+        },
+        {
+            "id": 6,
+            "name": "nagar",
+            "state_id": 3
+        },
+        {
+            "id": 7,
+            "name": "pune",
+            "state_id": 4
+        },
+        {
+            "id": 8,
+            "name": "Nara",
+            "state_id": 4
+        }
+    ]
+}
